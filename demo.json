@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "Name": "John Smith",
+            "Age": "32",
+            "Department": "Sales",
+            "Salary": "50000"
+        },
+        {
+            "Name": "Lisa Johnson",
+            "Age": " 28",
+            "Department": "Marketing",
+            "Salary": "45000"
+        },
+        {
+            "Name": "Michael Davis",
+            "Age": "45",
+            "Department": "Finance",
+            "Salary": "60000"
+        },
+        {
+            "Name": "Sarah Adams",
+            "Age": "35",
+            "Department": "IT",
+            "Salary": "55000"
+        }
+    ]
+}
